@@ -1,7 +1,15 @@
-imageio
-imageio-ffmpeg
-matplotlib
-configargparse
-tensorboard>=2.0
-tqdm
-opencv-python
+ConfigArgParse @ file:///tmp/build/80754af9/configargparse_1615837118917/work
+filelock @ file:///croot/filelock_1672387128942/work
+gmpy2 @ file:///tmp/build/80754af9/gmpy2_1645455532332/work
+imageio==2.31.5
+Jinja2 @ file:///croot/jinja2_1666908132255/work
+MarkupSafe @ file:///opt/conda/conda-bld/markupsafe_1654597864307/work
+mpmath @ file:///croot/mpmath_1690848262763/work
+networkx @ file:///croot/networkx_1690561992265/work
+numpy==1.24.4
+opencv-python==4.8.1.78
+Pillow==10.0.1
+sympy @ file:///croot/sympy_1668202399572/work
+torch==2.0.0
+tqdm @ file:///croot/tqdm_1679561862951/work
+typing_extensions @ file:///croot/typing_extensions_1690297465030/work
